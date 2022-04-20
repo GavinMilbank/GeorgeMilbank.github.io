@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A minimal Hugo website</title>
+    <link>/</link>
+    <description>Recent content in Home on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JaamSim</title>
+      <link>/note/scheduling/jaamsim/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/note/scheduling/jaamsim/</guid>
+      <description>User Guide  Units Expressions - up to lambda functions and higher order functions Simulation Object - The Simulation object is used to store inputs that define basic parameters of the model, such as run duration. The Simulation object is created automatically when a new model is started, and thus does not appear in the Model Builder. Configuration File API - JaamSimModel programmatic method of controlling simulation Maintenance, Breakdowns, and Thresholds - model planned maintenance, breakdowns, and process blockages - Reliability, - Availability, and Maintainability (RAM) analysis  Thresholds - TimeSeries, Expression, Signal Downtime - random or scheuduled events based on wworking or calendar time States - (working|idle|stopped|maintenance|breakdown)   Probability Distributions - generative  DrawValue, NumOfSamples, (theorteical|calculated) mean and stddev,    14.</description>
+    </item>
+    
+    <item>
+      <title>SNOMED for Search</title>
+      <link>/note/healthcare/snomed-search/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/note/healthcare/snomed-search/</guid>
+      <description> SNOMED  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/</guid>
+      <description>Entities  forecastable(forecastable_id,&amp;hellip;) &amp;ndash; all the static information forecast_type(forecast_type,&amp;hellip;) forecast(forecastable_id,date,horizon,forecast_type,value) forecastable_history(forecastable_id,date,value) forecastable_consumer_history(forecastable_id,consumer_post_id,effects&amp;hellip;) # consumer_post(consumer_post_id,date,url) - file, leave in ES design_matrix - long form forecastable_history and forecastable_consumer_history gathered wide  </description>
+    </item>
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/company/</guid>
+      <description>We are experienced implementors of FHIR, the future standard of healthcare technology inter-operability. We are experts in data extraction, migration, mining and machine learning for any problem domain. We have deep experience in the valuation and risk management of financial instruments. We can help you publish and monetize your data or idea by providing an API to other businesses or the developer community. We can help sell directly to consumers with a single page web-app or mobile application as the shop-front of your business.</description>
+    </item>
+    
+    <item>
+      <title>Elements of Statistical Learning Notes</title>
+      <link>/note/statistics/elements-of-statistical-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/note/statistics/elements-of-statistical-learning/</guid>
+      <description>2. Overview of Supervised Learning 2.3 Prediction Least Squares to Nearest Neighbors 2.3.1 Linear Models and Least Squares  N factors = N dim linear model = N+1 coefficient if bias included. invert : min(Norm(predictions(sample)-outcomes),coefficients)   2.3.2 Nearest-Neighbor Methods  simple average of nearest K (e.g. euclidean norm) 1-NN =&amp;gt; voronoi tesselation   2.3.3 From Least Squares to Nearest Neighbors  LLS == low variance high bias - best for linear real models kNN == high variance low bias - fits any real model kNN and linear regression have biggest market share.</description>
+    </item>
+    
+    <item>
+      <title>Foundations of Modern Probability</title>
+      <link>/note/statistics/probability-essentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/note/statistics/probability-essentials/</guid>
+      <description>1. Introduction  lineage - Pascal, Fermat, Bernoulli, De Moivre, Euler, Gauss, Laplace, Kolmologorov, Borel, Lebesgue, Levy. chapter 2-12 probability (integration) on discrete, countable then general mesaure spaces. chapter 13-21 limit theorems, Gaussian distributions, transformations chapter 22,23 conditional expecation as Hilbert Space projection chapter 24-28 martingales and Radon-Nokidym theorem - not really essentials but god for stochastic processes.   2. Axioms  Let \(\Omega\) be an abstract event space with no special structure.</description>
+    </item>
+    
+  </channel>
+</rss>
