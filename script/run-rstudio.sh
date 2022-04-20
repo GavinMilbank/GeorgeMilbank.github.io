@@ -6,6 +6,7 @@ echo PWD=${PWD}
 docker run -it \
 -e DISABLE_AUTH=true \
 -p 8787 \
+-p 4321 \
 -v $(pwd):/home/rstudio \
 -v /Users/gavinmilbank/.ssh:/root/.ssh \
 -v /Users/gavinmilbank/.ssh:/home/rstudio/.ssh \
