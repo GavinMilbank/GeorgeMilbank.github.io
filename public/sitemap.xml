@@ -2,41 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://savemarsdenpoint.com/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/post/readme/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://savemarsdenpoint.com/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://savemarsdenpoint.com/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://savemarsdenpoint.com/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/post/2022-04-21-business-analysis/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/tags/istio/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/post/2022-04-21-refiningnz-govt-dialogue/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/search/placeholder/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/top/about/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/top/books/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/2018/06/02/istio08/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/search/placeholder/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/top/about/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/top/books/</loc>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/search/</loc>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/top/</loc>
+    <loc>/top/</loc>
   </url>
 </urlset>

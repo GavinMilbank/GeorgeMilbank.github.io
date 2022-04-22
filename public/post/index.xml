@@ -2,38 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Save Our Refinery</title>
-    <link>https://savemarsdenpoint.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Save Our Refinery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://savemarsdenpoint.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>https://savemarsdenpoint.com/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Our Beautiful Refinery&#39;s Story</title>
+      <link>/post/readme/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://savemarsdenpoint.com/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+      <guid>/post/readme/</guid>
+      <description>https://www.stuff.co.nz/business/127998986/marsden-pt-refinery-should-not-be-taking-its-last-crude-oil-shipment-workers-say
+  Refinery ripe for investment
+  
+  
+  Namoi James April 8 2022
+  [MBIE Fuel Supply Resilience without a domestic refinery](https://www.mbie.govt.nz/dmsdocument/17733-fuel-supply-resilience-without-a-domestic-oil-refinery-proactiverelease-pdf]
+  https://www.haletwomey.co.nz/
+  REFINING NZ IMPACT OF CONVERSION TO FUELS TERMINAL
+  (https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-statistics/oil-statistics/)
+  [Wiki Oil and Gas in NZ]((https://en.wikipedia.org/wiki/Oil_and_gas_industry_in_New_Zealand) https://www.energyresources.org.nz/ https://www.engineeringnz.org/programmes/heritage/heritage-records/marsden-point-oil-refinery/ https://fuelquality.tradingstandards.govt.nz/for-consumers/the-fuel-industry-in-new-zealand/ https://www.worldometers.info/oil/new-zealand-oil/ https://www.newsroom.co.nz/russia-ukraine-war-changes-fundamentals-on-nz-fuel-supplies https://www.rnz.co.nz/news/business/457607/fuel-experts-divided-on-impact-of-marsden-point-refinery-closure https://www.rnz.co.nz/news/national/443869/marsden-point-closure-could-expose-nz-to-fuel-security-risks-report-says https://www.stuff.co.nz/business/126002293/marsden-point-refinery-closure-threatens-energy-security-maritime-union-says https://fyi.org.nz/request/15722-copies-of-consultants-reports-and-communications-between-mbie-and-stakeholders-related-to-the-potential-closure-of-marsden-point-oil-refinery https://www.jasmax.com/people/sjoerd-post/ https://www.haletwomey.co.nz/ https://www.mbie.govt.nz/dmsdocument/12087-refining-nz-accelerating-renewable-energy-and-energy-efficiency-submission-pdf
+https://www.newsroom.co.nz/marsden-point-refinery-closure-to-save-100mt-co2 https://www.</description>
     </item>
     
     <item>
-      <title>Istio v1aplha3 routing API介绍(译文）</title>
-      <link>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/post/2022-04-21-business-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
-      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
+      <guid>/post/2022-04-21-business-analysis/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Istio 0.8 Release发布</title>
-      <link>https://savemarsdenpoint.com/2018/06/02/istio08/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/post/2022-04-21-refiningnz-govt-dialogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://savemarsdenpoint.com/2018/06/02/istio08/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;在6月1日这一天的早上，Istio社区宣布发布0.8 Release，除了常规的故障修复和性能改进外，这个儿童节礼物里面还有什么值得期待内容呢？让我们来看一看：&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <guid>/post/2022-04-21-refiningnz-govt-dialogue/</guid>
+      <description></description>
     </item>
     
   </channel>

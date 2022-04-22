@@ -4,4 +4,3 @@ Blurb about refinery
 
 ## Events
 
-* [Description](https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap)  2018
