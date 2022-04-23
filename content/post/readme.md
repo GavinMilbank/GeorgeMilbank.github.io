@@ -2,9 +2,12 @@
 layout:     post
 title:      "The Refinery's Value to New Zealand"
 subtitle:   "The History of Marsden Point"
-date:       2022-03-31
+draft:      true
+date:       2022-04-22
 author:     "Convoy 2022"
 ---
+
+
 
 - we should import the high tech stuff which is impractical to make as capital investment - *not* the finsihed poduct.
 - we need to manage this infrastrucutre on a 50-year inverrstment horizon, not one.

@@ -13,7 +13,7 @@ outputs:
     - RSS
     - Algolia
 params:
-  header_image: img/marsden-sunset.jpeg
+  header_image: img/marsden-sunset.png
   SEOTitle: Convoy 2022 | Save Marsden Point
   description: Description here
   keyword: >-
@@ -47,12 +47,11 @@ params:
   friend_link:
     - title: Daily Telegraph
       href: https://dailytelegraph.co.nz
-  bookmark_link:
-    - title: Martin Fowler
-      href: 'https://martinfowler.com'
+    - title: Social Credit
+      href: https://www.socialcredit.nz/refineryinfo
+    - title: Democracy NZ
+      href: https://democracynz.org
   addtional_menus:
-    - title: BOOKS
-      href: /top/books/
     - title: ABOUT
       href: /top/about/
   algolia:
