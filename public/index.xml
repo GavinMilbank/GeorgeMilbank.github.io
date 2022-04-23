@@ -1,39 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Save Our Refinery</title>
+    <title>Save Marsden Point</title>
     <link>https://savemarsdenpoint.com/</link>
-    <description>Recent content on Save Our Refinery</description>
+    <description>Recent content on Save Marsden Point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://savemarsdenpoint.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://savemarsdenpoint.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>https://savemarsdenpoint.com/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Our Kaupapa</title>
+      <link>https://savemarsdenpoint.com/post/2022-04-21-our-kaupapa/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://savemarsdenpoint.com/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
-    </item>
-    
-    <item>
-      <title>Istio v1aplha3 routing API介绍(译文）</title>
-      <link>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
-      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Istio 0.8 Release发布</title>
-      <link>https://savemarsdenpoint.com/2018/06/02/istio08/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://savemarsdenpoint.com/2018/06/02/istio08/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;在6月1日这一天的早上，Istio社区宣布发布0.8 Release，除了常规的故障修复和性能改进外，这个儿童节礼物里面还有什么值得期待内容呢？让我们来看一看：&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <guid>https://savemarsdenpoint.com/post/2022-04-21-our-kaupapa/</guid>
+      <description>The Marsden Point Refinery is New Zealand Industrial Taonga. In summary, we beleive that:
+We should preserve it for our future economic resilience as we smoothly and safely modenrize our energy sources.
+ Marsden Point is critcal for Neww Zealand economic resilience in a world of geopolitical shocks and global supply-chain breakdown. The decision to decomission Marsden Point was driven by 2 parties who do not have the econmic intererst of New Zealanders at heart:  a small ideoligcal faction in government on pursuit of political power the very short term finaical interests of the shareholders   The government can easily afford to buy an infulential or controlling stake the Refinery to facilitate a longer planning horizon.</description>
     </item>
     
     <item>
@@ -51,18 +33,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://savemarsdenpoint.com/top/about/</guid>
-      <description>Huabing Zhao
-Blurb about refinery
-Events  Description 2018  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://savemarsdenpoint.com/top/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://savemarsdenpoint.com/top/books/</guid>
-      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
+      <description>Our Kaupapa The Marsden Point Refinery is New Zealand Industrial Taonga. In summary, we beleive that:
+We should preserve it for our future economic resilience as we smoothly and safely modenrize our energy sources.
+ Marsden Point is critcal for Neww Zealand economic resilience in a world of geopolitical shocks and global supply-chain breakdown. The decision to decomission Marsden Point was driven by 2 parties who do not have the econmic intererst of New Zealanders at heart:  a small ideoligcal faction in government on pursuit of political power the very short term finaical interests of the shareholders   The government can easily afford to buy an infulential or controlling stake the Refinery to facilitate a longer planning horizon.</description>
     </item>
     
   </channel>

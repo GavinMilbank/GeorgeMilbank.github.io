@@ -2,40 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://savemarsdenpoint.com/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>https://savemarsdenpoint.com/post/2022-04-21-our-kaupapa/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://savemarsdenpoint.com/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://savemarsdenpoint.com/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/tags/istio/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://savemarsdenpoint.com/2018/06/02/istio08/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://savemarsdenpoint.com/search/placeholder/</loc>
   </url><url>
     <loc>https://savemarsdenpoint.com/top/about/</loc>
   </url><url>
-    <loc>https://savemarsdenpoint.com/top/books/</loc>
+    <loc>https://savemarsdenpoint.com/categories/</loc>
   </url><url>
     <loc>https://savemarsdenpoint.com/search/</loc>
+  </url><url>
+    <loc>https://savemarsdenpoint.com/tags/</loc>
   </url><url>
     <loc>https://savemarsdenpoint.com/top/</loc>
   </url>
