@@ -22,7 +22,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: true
-  navTitleText: Cupper Theme
+  navTitleText: Save Marsden Point
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
@@ -35,21 +35,24 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Posts
-      url: /post/
-      weight: 2
-    - name: Questions
-      url: /questions/
+    - name: Impact of Impact Only
+      url: /report-import-only-impact
+      weight: 3
+    - name: Environment
+      url: /environment
       weight: 3
     - name: Timeline
       url: /timeline/
       weight: 3
-    - name: Tags
-      url: /tags/
+    - name: In The Preess
+      url: /in-the-press/
       weight: 3
-    - name: Independent Report
-      url: /assets/refining-nz-impact-of-conversion-to-fuels-terminal.pdf
-      weight: 3      
+    - name: NZ Energy Market
+      url: /nz-energy-market
+      weight: 3
+    - name: Refinery Operation
+      url: /refinery-operation
+      weight: 3
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
