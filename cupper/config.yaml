@@ -13,15 +13,15 @@ permalinks:
 imaging:
   quality: 99
 params:
-  description: Notes on the value of the Marsden Point Oil Refinery to New Zealand by [Dig In At Marsden](https://www.securemarsdenrefinery.nz/)
+  description: Notes on the value of the Marsden Point by [Dig In At Marsden](https://www.securemarsdenrefinery.nz/)
   homeMetaContent: Notes on the value of the Marsden Point Oil Refinery to New Zealand by [Dig In At Marsden Point](https://www.securemarsdenrefinery.nz/)
-  footer: By [Dig In At Marsden](https://www.securemarsdenrefinery.nz)
+  footer: Want to help ? Join us at the [Dig In At Marsden](https://www.securemarsdenrefinery.nz)
   # dateFormat: Jan 2, 2006
   hideHeaderLinks: false
   search: false
   showThemeSwitcher: true
   defaultDarkTheme: false
-  moveFooterToHeader: true
+  moveFooterToHeader: false
   navTitleText: Save Marsden Point
   logoAlt: An alternative text description of the logo
   customCss:
