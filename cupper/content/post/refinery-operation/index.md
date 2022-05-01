@@ -2,7 +2,7 @@
 layout:     post
 title:      "NZ Energy Needs Supplied"
 subtitle:   "Dangerous Attck on our Economic Sovreignty"
-draft:      false
+draft:      true
 ---
 
 - [A bizarre emissions declaration](https://www.newsroom.co.nz/marsden-point-refinery-closure-to-save-100mt-co2)

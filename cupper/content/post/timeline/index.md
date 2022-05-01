@@ -7,9 +7,6 @@ draft:      false
 
 We detail some of the main events in the loss of our refinery, with the help of documents obtained by an [OIA request](https://fyi.org.nz/request/15722-copies-of-consultants-reports-and-communications-between-mbie-and-stakeholders-related-to-the-potential-closure-of-marsden-point-oil-refinery).
 
-
-
-
 - [2018-11-12 **Domestic oil and gas exploration ban**](https://legislation.govt.nz/act/public/2018/0049/16.0/LMS90459.html#LMS90468)
 - [2019-12-19 **MBIE discussion paper - Accelerating renewable energy**](https://www.mbie.govt.nz/assets/discussion-document-accelerating-renewable-energy-and-energy-efficiency.pdf)
     - According to Megan Woods (ideological and unproven):

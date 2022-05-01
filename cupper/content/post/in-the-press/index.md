@@ -5,8 +5,16 @@ subtitle:   "The History of Marsden Point"
 draft:      false
 ---
 
+[Refinery](https://www.rnz.co.nz/audio/player?audio_id=2018806955)
+
+
+- not that dirty and there are plenty of beaches
+
+
 - [Jun 2021 - Marsden Point closure could expose NZ to fuel security risks](https://www.rnz.co.nz/news/national/443869/marsden-point-closure-could-expose-nz-to-fuel-security-risks-report-says)
+    - > The Energy Minister said these risks are not significant, but a consultant's report to the government says the opposite.
 - [Aug 2021 - Marsden Point refinery closure threatens energy security, Maritime Union says](https://www.stuff.co.nz/business/126002293/marsden-point-refinery-closure-threatens-energy-security-maritime-union-says)
+    - > Security and resilience were now the two most important factors for the economy. The closure of the refinery was corporate self-interest and not in the wider interests of New Zealand. It was disturbing that the lessons from Covid and the flow on disruption to our supply chains were being ignored.
 - [Aug 2021 - Government defends import-only strategy](https://www.rnz.co.nz/news/business/448612/marsden-point-potential-closure-government-defends-import-only-strategy)
     - The Ministry of Business, Innovation and Employment (MBIE) said that "would mark a significant change in New Zealand's fuel supply chain".
     - But its advice was that the supply chain was secure because the country could get fuel from multiple locations overseas.

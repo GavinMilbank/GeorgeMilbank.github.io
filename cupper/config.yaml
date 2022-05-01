@@ -13,9 +13,9 @@ permalinks:
 imaging:
   quality: 99
 params:
-  description: Notes on the value of the Marsden Point by [Dig In At Marsden](https://www.securemarsdenrefinery.nz/)
+  description: Notes on the value of [Marsden Point](https://www.securemarsdenrefinery.nz/)
   homeMetaContent: Notes on the value of the Marsden Point Oil Refinery to New Zealand by [Dig In At Marsden Point](https://www.securemarsdenrefinery.nz/)
-  footer: Want to help ? Join us at the [Dig In At Marsden](https://www.securemarsdenrefinery.nz)
+  footer: Join us at the [Dig In At Marsden](https://www.securemarsdenrefinery.nz)
   # dateFormat: Jan 2, 2006
   hideHeaderLinks: false
   search: false
@@ -35,23 +35,17 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Impact of Impact Only
+    - name: Import Only Report
       url: /report-import-only-impact
       weight: 3
-    - name: Environment
-      url: /environment
+    - name: Refinery Stategic Review
+      url: /refinery-strategic-review
       weight: 3
     - name: Timeline
       url: /timeline/
       weight: 3
-    - name: In The Preess
+    - name: The Press Coverage
       url: /in-the-press/
-      weight: 3
-    - name: NZ Energy Market
-      url: /nz-energy-market
-      weight: 3
-    - name: Refinery Operation
-      url: /refinery-operation
       weight: 3
 markup:
   defaultMarkdownHandler: goldmark
