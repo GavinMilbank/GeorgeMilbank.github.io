@@ -1,0 +1,32 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Save Marsden Point"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+permalinks:
+  post: "/post/:year/:month/:day/:title/"
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Tags
+      url: "tags/"
+      weight: 4
+    - name: Events
+      url: "event/"
+      weight: 4
+    - name: Subscribe
+      url: "index.xml"
+params:
+  description: "Notes on the value and loss of Marsden Point Oil Refinery"
+  footer: "[River Of Filth Tyranny Response Team](https://www.securemarsdenrefinery.nz)"
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
