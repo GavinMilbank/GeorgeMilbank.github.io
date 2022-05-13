@@ -2,27 +2,34 @@
 title: Home
 ---
 
-[<img src="img/digin-logo.png" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://www.securemarsdenrefinery.nz)
 
 # Save Marsden Point Oil Refinery
 
-Marsden Point Refinery is currenty shut down, but [Refining NZ management]() want to destroy it. It critical piece of infrastructure which until the recent shutdown provided 
+Marsden Point Refinery is a critical piece of infrastructure which until recently provided:
 
 - 70% of NZ's transport [energy needs]()
 - 70% of NZ's roading [bitumen]()
-- [CO<sub>2</sub>]() for food processing d
-- [sulphur]() for fertlizer 
+- [CO<sub>2</sub>]() for food processing
+- [sulphur]() for fertlizer[^1]
 
-This was taken during the Covid pandemic by:
+and is slated for destruction by 
 
-- [The Fuel Retailing Cartel Shareholders]() for short term profit.
-- [Refining NZ Management]() in pursuit of their short term bonuses.
-- [Government green ideologues]() for politcal power and vanity.
+- Refining NZ [Management]() and [Shareholders]()
+- [Government green ideologues]()
 
-ignoring the global supply shock, price and quality [risks]() of of moving to an [import only model]() 
-and removing options for the development of our [domestic energy resources](). 
-The foolishness of this move was immediately demonstrated as [geopolitcal events]() pushed [global refining margins](https://www.tradingview.com/symbols/NYMEX-D1N1%21) to record highs
+as the country moves to an import only model which:
 
-![image](refining-margins.webp "Refining margins Covid low and explosive surge")
+- expoes us supply, price and quality [risks]()
+- remove options for development of our [domestic energy resources](). 
 
-footnote (apart from a little which the RNZ C-Suite and board hold back for satanic rituals)
+The foolishness of this move was immediately demonstrated as [geopolitcal events]() pushed [global refining margins](https://www.tradingview.com/symbols/NYMEX-D1N1%21) to record highs. It currenty on the state of a regualr shutdown but can still be salvaged if [actin is taken qucikly](https://www.securemarsdenrefinery.nz/).
+
+[<figure><img src="refining-margins.webp" alt="Trulli" style="width:100%"><figcaption align = "center"><b>Refining margins Covid low and explosive surge</b></figcaption></figure>](https://www.tradingview.com/chart/?symbol=NYMEX%3AD1N1!)
+
+
+<figure>
+<img src="img/refinery-from-harbour.jpeg" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Our Refinery - An economic insurance policy</b></figcaption>
+</figure>
+
+[^1]: Apart from a little which the Refining NZ C-Suite and board hold back for satanic rituals.
