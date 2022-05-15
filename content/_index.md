@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# Save Marsden Point Oil Refinery
+# Save Marsden Point
+
+<br/>
 
 <figure>
     <img src="img/refinery-from-harbour.jpeg" alt="Trulli" style="width:100%">
@@ -26,7 +28,7 @@ sucked profits out of the refinery and into their downstream businesses over man
 Even given the need to compete with more efficient mega-refineries principally in Asia, 
 there is obviously increased supply chain risk in having these as the only source of refined products, so great insurance and optionality value 
 in having a local refinery. The government appears to have been influenced
-by emissions reduction goals not to offer to help the refinery compete with the overseas mega-refineries particularly during the Covid downturn.
+by emissions reduction goals not to offer to help the refinery even over the Covid downturn.
 The almost comic incompetence of the decision to close the refinery was immediately showcased with the refining business surging to [historic profitability](https://www.youtube.com/watch?v=CjNqvObCfKc) as supply chain and geopolitical risks skyrocket.
 
 <figure>
@@ -36,7 +38,7 @@ The almost comic incompetence of the decision to close the refinery was immediat
 </figure>
 
 Because of the refinery's obvious importance a cabinet paper by Megan Woods did float the idea of 
-[a loan to save the refinery]() as has been done in Austalia, but his was rejected by cabinet. 
+[a loan to save the refinery]() as has been done in Australia, but this was rejected by cabinet. 
 A motive for this economic sabotage became clear when [James Shaw]() announced his [emissions budgets](https://environment.govt.nz/what-government-is-doing/areas-of-work/climate-change/emissions-budgets-and-the-emissions-reduction-plan/) noting in a cabinet paper the [accounting trick of 
 exporting our refinery emissions](https://environment.govt.nz/assets/publications/REDACTED-Emissions-Budgets-for-2022-2025_2026-2030-and-2031-2035-cabinet.pdf) 
 (along with the GDP) while probably increasing global emissions.
@@ -45,12 +47,21 @@ exporting our refinery emissions](https://environment.govt.nz/assets/publication
 > -- <cite>River Of Filth Tyranny Response Team</cite>
 
 <figure>
-    <figcaption align = "center"><b><a href="https://en.wikipedia.org/wiki/Richard_Lindzen">Professor Lindzen rejects the premise of James Shaw's flights to Glasgow to stop the climate changing</a></b></figcaption>
+    <figcaption align = "center"><b><a href="https://en.wikipedia.org/wiki/James_Shaw_(New_Zealand_politician)">James Shaw, on his way to save the climate - credits his two mothers for instilling him a passion for social justice.</a></b></figcaption>
     <br/>
-    <img src="img/shaw-lindzen.webp" alt="Trulli" style="width:100%">
+    <img src="img/Shaw_Scottish_copy.jpeg" alt="Trulli">
 </figure>
 
 <br/>
+
+<figure>
+    <figcaption align = "center"><b><a href="https://en.wikipedia.org/wiki/Richard_Lindzen">Professor Lindzen rejects the premise of James Shaw's flights to Glasgow to stop the climate changing</a></b></figcaption>
+    <br/>
+    <img src="img/C02-magic.jpeg" alt="Trulli">
+</figure>
+
+<br/>
+
 
 The refinery is currently in the state of a regular shutdown and can be brought back on line but the next step for the [Fuel Retailing Cartel]() 
 is to start selling off this precious asset so this year's balance sheet looks good since they have missed out on historc refining profits. 
