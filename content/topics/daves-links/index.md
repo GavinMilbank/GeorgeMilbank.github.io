@@ -6,13 +6,7 @@ tags:
   - Dave
 ---
 
-- [Andrew Brewer Experience](_dave/0Andrew Brewer Experience.docx)
-- [Andrew Brewer](_dave/0Andrew Brewer new Director Directors Report Z 2021.pdf)
-- https://au.linkedin.com/in/andrewbrewer11
-- [Refining NZ hires Santos exec Naomi James to take over as CEO]()
-
-- [China Solomons](https://docs.google.com/document/d/18Hce6f0W5qJavLjy6vvaIYHu337Xw0uf/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
-- [China Solomons OZ Pact](https://docs.google.com/document/d/13THUoxgOTrcZDgIF4gWx1PesV8AyRMM7/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&
+## Geopolitics
 
 - [Can NZR Survive](https://www.newsroom.co.nz/can-our-oil-refinery-survive)
 - [End Looms for Kiwi Bitumen](https://contractormag.co.nz/contractor/marsden-point-bitumen)
@@ -23,45 +17,50 @@ tags:
 - [Z energy-exiting-creude-oil-supply](https://www.petrolplaza.com/news/28881)
 - [Fuel giant Z Energy agrees takeover deal with Australia's Ampol](https://www.nzherald.co.nz/business/fuel-giant-z-energy-agrees-takeover-deal-with-australias-ampol-but-hurdles-remain/FQGWP2MFPPGALWGARF4DKVCVFI/)
 
+## Geopolitics
+
 - [NZDF confirms Chinese spy ship entered NZ ‘economic zone’](https://docs.google.com/document/d/1kWFgU7fBsDIiTWgF7-O3JRC7zK4Do7-B/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
-- [NZ NAvy vessles sold to Ireland](https://docs.google.com/document/d/1ESM80e38NyMeop3F5SmEL8pTlzrN44zl/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
+- [NZ Navy vessles sold to Ireland](https://docs.google.com/document/d/1ESM80e38NyMeop3F5SmEL8pTlzrN44zl/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [China Solomons](https://docs.google.com/document/d/18Hce6f0W5qJavLjy6vvaIYHu337Xw0uf/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [China Solomons OZ Pact](https://docs.google.com/document/d/13THUoxgOTrcZDgIF4gWx1PesV8AyRMM7/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [Shipping Lanes SW Pacific Map](https://docs.google.com/document/d/1MIk16Xe9ItpIFom9qXGMrQyT7X9SmyOU/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
-bitumen
+## Bitumen
+
 - [NZTA taking control of NZ's supply of bitumen for roading](https://www.rnz.co.nz/news/national/465114/nzta-taking-control-of-nz-s-supply-of-bitumen-for-roading)
 - [Z leads bitumen market](https://www.rnz.co.nz/news/national/464410/nzta-tight-lipped-on-plans-for-importing-bitumen-but-z-energy-confirms-it-will-leave-market#:~:text=1%20Apr%202022-,NZTA%20tight%2Dlipped%20on%20plans%20for%20importing%20bitumen%2C%20but%20Z,confirms%20it%20will%20leave%20market&text=The%20shutdown%20of%20Marsden%20Point,is%20already%20under%20intense%20pressure.)
 
-Ampol Z acquistion
+## Ampol Z acquistion
+
 - [Ampol - Z Energy Aquisition Clearance Application](https://drive.google.com/file/d/1pisEImbMFXDTFKo7id07ZjwLp8TCoy1J/view?usp=sharing)
 - [Z Investors](https://drive.google.com/file/d/1KgBXD8yGbf6GZIEAoViLrIuK9e637r5f/view?usp=sharing)
 - [Directors Report Z](https://drive.google.com/file/d/1Hh6hojQ6YGGsu41d12eQ1kgq791mCjNA/view?usp=sharing)
 - [Ampol sells Gull NZ](https://docs.google.com/document/d/1ESM80e38NyMeop3F5SmEL8pTlzrN44zl/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [Recent Insider Transactions - Z Energy](https://docs.google.com/document/d/1iaiYQ1CSOrzuIqVoPthmNpvWDUd3C-bU/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
-Naomi
-- [Naomi James Earning Dec 2021](https://docs.google.com/document/d/1xwS7TN-PGxj5IukWpU0Fp9latMdPHtkb/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
-- [Refining NZ new CFO](https://docs.google.com/document/d/1WiHyT_GPnBgnsgNARq6WTj6QQf7M6eMr/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
+## Fuel Security
 
-Fuel Security
 - [Fuel firms set to be required to store more petrol in NZ after refinery closes](https://www.stuff.co.nz/business/127519336/fuel-firms-set-to-be-required-to-store-more-petrol-in-nz-after-refinery-closes)
 - [War changes basics of NZ fuel supplies](https://www.newsroom.co.nz/russia-ukraine-war-changes-fundamentals-on-nz-fuel-supplies)
 - [New Zealand confirms oil reserve release](https://www.rnz.co.nz/news/political/464886/new-zealand-confirms-oil-reserve-release)
 
-Emergency regime
+## Emergency regime
 
 - [Monitoing and enforcement of emergency regime](https://docs.google.com/document/d/1pqUq9ilPIy_Vk_h4UtUpjKz3c0aKLSkg/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
-NZR
-
-- [ACC NZR directors shares in NZR](https://docs.google.com/document/d/1QUkXcBW6kXJ-UIHKGXeqKxlMcTF0KxIY/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
-- [NZR directors](https://drive.google.com/file/d/18w31ovG9zFZzmoBxmAWXbhulOaR7NzbX/view?usp=sharing)
 
 - [NZ 'naive' to shut down Marsden Point - Australian analyst](https://www.rnz.co.nz/news/national/448417/nz-naive-to-shut-down-marsden-point-australian-analyst)
 - [Could NZ run out of fuel if Marsden Pt oil refinery is closed](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018806943/could-nz-run-out-of-fuel-if-marsden-pt-oil-refinery-is-closed)
 
+## NZR Management and Shareholding
 
+- [Andrew Brewer](static/assets/NZR/0Andrew-Brewer-new-Director-Directors-Report-Z-2021.pdf)
+- [Andrew Brewer Experience](https://au.linkedin.com/in/andrewbrewer11)
+- [Naomi James Earning Dec 2021](https://docs.google.com/document/d/1xwS7TN-PGxj5IukWpU0Fp9latMdPHtkb/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
+- [Refining NZ new CFO](https://docs.google.com/document/d/1WiHyT_GPnBgnsgNARq6WTj6QQf7M6eMr/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
+- [Refining NZ hires Santos exec Naomi James to take over as CEO](https://www.nzherald.co.nz/business/refining-nz-hires-santos-exec-naomi-james-to-take-over-as-ceo/ERWLAFVWXLNW23TOQ7MPBPRWOU/?c_id=3&objectid=12299947&ref=rss)
+- [ACC NZR directors shares in NZR](https://docs.google.com/document/d/1QUkXcBW6kXJ-UIHKGXeqKxlMcTF0KxIY/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
+- [NZR directors](https://drive.google.com/file/d/18w31ovG9zFZzmoBxmAWXbhulOaR7NzbX/view?usp=sharing)
 
 
 
