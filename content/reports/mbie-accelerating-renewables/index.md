@@ -3,6 +3,8 @@ title: MBIE Report - Accelerating renewable energy
 date: 2019-12-19
 tags:
   - Timeline
+  - Climate
+  - Report
 ---
 
 - [MBIE - Accelerating renewable energy](https://www.mbie.govt.nz/assets/discussion-document-accelerating-renewable-energy-and-energy-efficiency.pdf)

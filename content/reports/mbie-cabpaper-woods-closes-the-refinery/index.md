@@ -7,14 +7,14 @@ tags:
 
 ## [MBIE Oil security in New Zealand](https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/oil-security-in-new-zealand/)
 
-
- I propose to progress development of options to ensure
+I propose to progress development of options to ensure
 domestic fuel stock levels remain adequate, as a means of supporting fuel supply resilience,
 as New Zealand transitions away from fossil fuels. 
 
 `implications for meeting the Government’s first emissions reduction budget.`
 
 The Minister of Energy and Resources recommends that the Committee:
+
 1. Note that Refining NZ plans to convert its Marsden Point oil refinery to a fuel import terminal and
 expects to make a final decision by 30 September 2021.
 2. Note that closure of the refinery is expected to have little impact on fuel supply resilience under
