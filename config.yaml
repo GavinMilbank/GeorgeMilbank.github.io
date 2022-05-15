@@ -21,7 +21,7 @@ menu:
       weight: 4
 params:
   description: "Notes on the value and loss of Marsden Point Oil Refinery"
-  footer: "[River Of Filth - Tyranny Response Team](https://www.securemarsdenrefinery.nz)"
+  footer: "[River Of Filth Research](https://www.securemarsdenrefinery.nz)"
 taxonomies:
   tag: tags  
 markup:
