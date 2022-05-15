@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/clowns/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/event/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/2022-05-12-marsden-point-james-shaw-ets/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/2022-02-26-woods-visitis-marsden-point/</loc>
     <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2022-05-12-marsden-point-james-shaw-ets/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <loc>/tags/climate/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/mbie-hale-twomey-fuel-security-costs-benefits/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <loc>/reports/mbie-cabpaper-minimum-onshore-stockholding/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rejected-premise/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/report/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/reports/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/timeline/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/reports/mbie-hale-twomey-fuel-security-costs-benefits/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/2020-06-03-mbie-implications-of-import-only/</loc>
@@ -50,6 +65,12 @@
     <loc>/event/2020-03-06-rnz-seeks-guidance/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/fuel-security/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/reports/dalley-thesis/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/reports/mbie-cabpaper-woods-closes-the-refinery/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,21 +83,30 @@
     <loc>/reports/mbie-oil-security/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/2018-11-12-oil-gas-ban/</loc>
+    <loc>/event/2018-11-12-oil-gas-ban/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/reports/rnz-processing-fee-purvin-gertz/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/dave/</loc>
+    <lastmod>1995-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/1995-01-01-cartel-gives-themselves-30pct-dicount/</loc>
+    <lastmod>1995-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/1988-01-01-rnz-gifted-2b-hydrocracker/</loc>
+    <lastmod>1988-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/refining-nz/</loc>
+    <lastmod>1988-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/page/</loc>
   </url><url>
     <loc>/press/</loc>
   </url><url>
-    <loc>/reports/mbie-cabpaper-minimum-onshore-stockholding/</loc>
-  </url><url>
     <loc>/tags/press/</loc>
   </url><url>
     <loc>/scratch/</loc>
-  </url><url>
-    <loc>/reports/dalley-thesis/</loc>
   </url>
 </urlset>

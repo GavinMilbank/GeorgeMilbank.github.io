@@ -53,7 +53,7 @@ exporting our refinery emissions (along with some GDP) while probably actually i
 <br/>
 
 
-With the closure of Marsden Point Refinery we have clearly increased our fuel supply chain risk becasue we have added extra external supply chain steps. If we can process our own crude, then we eliminate most external risks. We can't let these clowns and villains wreck our country. You can join groups such as the [Dig-In at Marsden Point](https://www.securemarsdenrefinery.nz) to fight back against this insanity. 
+With the closure of Marsden Point Refinery we have clearly increased our fuel supply chain risk becasue we have added extra external supply chain steps. If we can process our own crude, then we eliminate most external risks. We can't let these clowns and villains wreck our country buy selling off and gas-axing this unique industrial taonga which our parents and grandparents paid for. You stope them by joining groups such as the [Dig-In at Marsden Point](https://www.securemarsdenrefinery.nz) to fight back against this insanity. 
 
 <br/>
 

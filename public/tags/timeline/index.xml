@@ -6,15 +6,24 @@
     <description>Recent content in Timeline on Save Marsden Point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MBIE Cabinet Paper</title>
+      <link>/reports/mbie-cabpaper-minimum-onshore-stockholding/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/reports/mbie-cabpaper-minimum-onshore-stockholding/</guid>
+      <description>Minimum Onshore Fuel Stockholding </description>
+    </item>
+    
     <item>
       <title>MBIE Report - REFINING NZ IMPACT OF CONVERSION TO FUELS TERMINAL</title>
       <link>/reports/mbie-hale-twomey-fuel-security-costs-benefits/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/reports/mbie-hale-twomey-fuel-security-costs-benefits/</guid>
-      <description>2020-12-16 Fuel security and fuel stockholding costs and benefits  It is currently reviewing its refining business in the context of challenging global refining market conditions, and is considering options that include reducing its refining capacity and closing the refinery.
- Executive Summary The Ministry of Business, Innovation and Employment (MBIE) is the Government’s lead adviser on national fuel security and periodically reviews fuel security policy settings. This review updates the previous reviews concentrating on national fuel supply risks and fuel security policies, particularly domestic fuel stockholding policies, under plausible market scenarios including closure of the Marsden Point oil refinery.</description>
+      <description>As MBIE pushed ahead with apthe decision not to act to preven the Marsden Point Refinery closure, they commissioined this report.
+2020-12-16 Fuel security and fuel stockholding costs and benefits </description>
     </item>
     
     <item>
@@ -67,6 +76,15 @@ The Minister of Energy and Resources recommends that the Committee:
       
       <guid>/reports/mbie-oil-security/</guid>
       <description>MBIE Oil security in New Zealand </description>
+    </item>
+    
+    <item>
+      <title>MBIE Report - Accelerating renewable energy</title>
+      <link>/reports/rnz-processing-fee-purvin-gertz/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/reports/rnz-processing-fee-purvin-gertz/</guid>
+      <description>http://nzx-prod-s7fsd7f98s.s3-website-ap-southeast-2.amazonaws.com/attachments/NZR/231157/168550.pdf</description>
     </item>
     
   </channel>
