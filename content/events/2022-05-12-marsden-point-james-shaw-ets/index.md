@@ -4,7 +4,7 @@ title: "Refinery closure to underpin emissions budget"
 date: 2022-05-12
 draft: false
 tags:
-    - Clowns
+    - Climate
 ---
 
 https://www.rnz.co.nz/news/political/466970/nz-s-first-three-emissions-budgets-guaranteed-with-non-partisan-support-minister

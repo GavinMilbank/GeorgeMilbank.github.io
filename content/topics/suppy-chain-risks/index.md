@@ -5,7 +5,7 @@ title:      Oil Security in NZ
 date: 2020-01-01
 tags:
   - Fuel Security
-  - Report
+  - Reports
 ---
 
 

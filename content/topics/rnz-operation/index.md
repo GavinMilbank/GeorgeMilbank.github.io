@@ -5,7 +5,6 @@ draft:      true
 date: 2022-01-01
 tags:
     - MBIE
-    - OIA
 ---
 
 - [MBIE - Oil Statistics](https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-statistics/oil-statistics/)

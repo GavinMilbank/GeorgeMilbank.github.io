@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Dave's Links"
+title:      "Miscellaneous Links"
 draft:      false
 date: 2022-01-01
 tags:
-  - Dave
+  - Fuel Security
 ---
 
 ## Geopolitics
@@ -15,10 +15,6 @@ tags:
 - [China Solomons OZ Pact](https://docs.google.com/document/d/13THUoxgOTrcZDgIF4gWx1PesV8AyRMM7/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [Shipping Lanes SW Pacific Map](https://docs.google.com/document/d/1MIk16Xe9ItpIFom9qXGMrQyT7X9SmyOU/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
-## Bitumen
-
-- [NZTA taking control of NZ's supply of bitumen for roading](https://www.rnz.co.nz/news/national/465114/nzta-taking-control-of-nz-s-supply-of-bitumen-for-roading)
-- [Z leads bitumen market](https://www.rnz.co.nz/news/national/464410/nzta-tight-lipped-on-plans-for-importing-bitumen-but-z-energy-confirms-it-will-leave-market#:~:text=1%20Apr%202022-,NZTA%20tight%2Dlipped%20on%20plans%20for%20importing%20bitumen%2C%20but%20Z,confirms%20it%20will%20leave%20market&text=The%20shutdown%20of%20Marsden%20Point,is%20already%20under%20intense%20pressure.)
 
 ## Fuel Security
 

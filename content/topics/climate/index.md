@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      Climate - We reject the premise.
+title:      How We Think About Climate Change
 draft:      false
 date: 2022-01-01
 tags: 
-    - Environment
     - Climate
 ---
 

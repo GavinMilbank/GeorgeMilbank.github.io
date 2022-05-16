@@ -5,8 +5,7 @@ date: 2021-12-15
 tags:
   - Timeline
   - Climate
-  - Rejected Premise
-  - Report
+  - Reports
 ---
 
 ## [ Minimum Onshore Fuel Stockholding](https://www.mbie.govt.nz/dmsdocument/19878-minimum-onshore-fuel-stockholding-proactiverelease-pdf)

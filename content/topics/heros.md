@@ -1,12 +1,14 @@
 ---
-layout:     post
-title:      "NZ Energy Needs Supplied"
-draft:      true
+title:      "About Us"
+draft:      false
 date: 2022-01-01
 tags:
-    - MBIE
-    - OIA
 ---
+
+
+We are a team of patriot volunteers determinded to save New Zealand from the ravages of the 
+[communistc Arden](https://www.youtube.com/watch?v=g9rsxFaq6Ig) government.
+
 
  https://www.taxpayers.org.nz/ 
  https://www.thebfd.co.nz/

@@ -1,11 +1,11 @@
 ---
 title: Cabinet Rejects Saving Refinery
-date: 2019-12-19
+date: 2021-11-02
 tags:
   - Timeline
 ---
 
-
+[MBIE Cabinet Paper - Fuel supply resilience without a domestic oil refinery](https://www.mbie.govt.nz/dmsdocument/17733-fuel-supply-resilience-without-a-domestic-oil-refinery-proactiverelease-pdf)
 I propose to progress development of options to ensure
 domestic fuel stock levels remain adequate, as a means of supporting fuel supply resilience,
 as New Zealand transitions away from fossil fuels. 
