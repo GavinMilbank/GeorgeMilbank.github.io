@@ -103,7 +103,7 @@ You can stop them by joining groups such as the [Dig-In at Marsden Point](https:
 <br/>
 
 Nga Mihi <br/>
-[River Of Filth Research](https://www.securemarsdenrefinery.nz)
+[River Of Filth Research](/topics/about)
 
 <br/>
 

@@ -2,110 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/clowns/</loc>
+    <loc>/tags/climate/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
+    <loc>/events/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2022-05-12-marsden-point-james-shaw-ets/</loc>
+    <loc>/events/2022-05-12-marsden-point-james-shaw-ets/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2022-02-26-woods-visitis-marsden-point/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/climate/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/mbie-cabpaper-minimum-onshore-stockholding/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/rejected-premise/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/report/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <loc>/events/2022-04-16-audio-naomi-james-closes-marsden-point/</loc>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/timeline/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/mbie-hale-twomey-fuel-security-costs-benefits/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <loc>/events/2022-03-11-audio-woods-on-fuel-security/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2020-06-03-mbie-implications-of-import-only/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/events/2022-03-07-audio-closing-marsden-point-geopolitics/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2020-07-01-rnz-asks-for-help/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/events/2022-02-26-woods-visitis-marsden-point/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2020-04-30-rnz-strategic-review/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+    <loc>/events/2022-02-23-refiningnz-500m-tax-write-off/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <loc>/topics/about/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2020-04-15-rnz-strategic-review/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <loc>/tags/bitumen/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/2020-04-20-rnz-to-engage-mbie/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/mbie-hale-twomey-impact-import-only/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/2020-03-06-rnz-seeks-guidance/</loc>
-    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <loc>/topics/bitumen/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/fuel-security/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/dalley-thesis/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/topics/climate/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/mbie-cabpaper-woods-closes-the-refinery/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <loc>/topics/press/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/reports/mbie-accelerating-renewables-rnz-submission/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/mbie-accelerating-renewables/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/mbie-oil-security/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/2018-11-12-oil-gas-ban/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/reports/rnz-processing-fee-purvin-gertz/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dave/</loc>
-    <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/1995-01-01-cartel-gives-themselves-30pct-dicount/</loc>
-    <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/1988-01-01-rnz-gifted-2b-hydrocracker/</loc>
-    <lastmod>1988-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/refining-nz/</loc>
-    <lastmod>1988-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/page/</loc>
-  </url><url>
-    <loc>/press/</loc>
+    <loc>/topics/daves-links/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/press/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/topics/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/topics/govt-solution/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2021-12-15-mbie-cabpaper-minimum-onshore-stockholding/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/reports/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2021-11-02-mbie-cabpaper-woods-closes-the-refinery/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2020-12-16-mbie-hale-twomey-fuel-security-costs-benefits/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/refining-nz/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2020-04-15-rnz-strategic-review/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2020-03-23-mbie-hale-twomey-impact-import-only/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/topics/suppy-chain-risks/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2019-12-19-mbie-accelarating-renewable-refiningnz-dialogue/</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2018-11-12-oil-gas-ban/</loc>
+    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/2012-rnz-processing-fee-purvin-gertz/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/1995-01-01-cartel-gives-themselves-30pct-dicount/</loc>
+    <lastmod>1995-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/events/1988-01-01-rnz-gifted-2b-hydrocracker/</loc>
+    <lastmod>1988-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/scratch/</loc>
   </url>
