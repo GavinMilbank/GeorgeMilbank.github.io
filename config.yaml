@@ -23,7 +23,7 @@ menu:
       url: "topics/"
       weight: 4
     - name: Press
-      url: "pages/press/"
+      url: "topics/press/"
       weight: 4
 params:
   description: "Notes on the value and loss of Marsden Point Oil Refinery"

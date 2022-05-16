@@ -1,12 +1,15 @@
 ---
 layout:     post
 draft:      false
-title:      Tobias Dalley Thesis - Addressing New Zealand's oil Security in 2040
+title:      Oil Security in NZ
 date: 2020-01-01
 tags:
   - Fuel Security
   - Report
 ---
+
+
+## [MBIE Oil security in New Zealand](https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/oil-security-in-new-zealand/)
 
 
 https://www.interest.co.nz/public-policy/115592/government-planning-nzs-first-ever%C2%A0comprehensive-freight-and-supply-chain

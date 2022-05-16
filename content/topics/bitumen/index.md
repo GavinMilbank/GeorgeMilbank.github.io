@@ -2,6 +2,7 @@
 layout:     post
 title:      Bitumen
 draft:      false
+date: 2022-01-01
 tags:
   - Bitumen
 ---

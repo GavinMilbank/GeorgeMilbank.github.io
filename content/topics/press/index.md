@@ -2,6 +2,7 @@
 layout:     post
 title:      "In The Press"
 draft:      false
+date: 2022-01-01
 tags:
     - Press
 ---
@@ -27,10 +28,6 @@ tags:
     - > Refinery worker Aaron Holrowd, who is First Union’s delegate at the site, said coming to the end of the refining business was very disappointing. “We're coming to the end when the business would be the most profitable manufacturer in the country, as refining margins are huge.”
 
 
-[Energy Minister Megan Woods on NZ's fuel security](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018833819/energy-minister-megan-woods-on-nz-s-fuel-security)
-- there would have to be a reconfiguration
-
-[The sticky issue of closing Marsden Point amid global oil uncertainty](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018833208/the-sticky-issue-of-closing-marsden-point-amid-global-oil-uncertainty)
 
 [Closure of Marsden Pt oil refinery confirmed](https://www.rnz.co.nz/national/programmes/checkpoint/audio/2018821552/closure-of-marsden-pt-oil-refinery-confirmed)
 

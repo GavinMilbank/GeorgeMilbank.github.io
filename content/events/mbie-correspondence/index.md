@@ -3,6 +3,7 @@ layout:     post
 title:      "In The Press"
 subtitle:   "The History of Marsden Point"
 draft:      false
+date: 2022-01-01
 tags:
     - MBIE
     - OIA

@@ -34,8 +34,25 @@ The almost comic incompetence of the decision to close the refinery was immediat
 <figure>
     <figcaption align = "center"><b><a href="https://www.tradingview.com/chart/?symbol=NYMEX%3AD1N1!">Singapore crack spreads show the incompetence of closing the refinery at the worst time in history</a></b></figcaption>
     <br/>
-    <img src="refining-margins.webp" alt="Trulli" style="width:100%">
+    <img src="img/refining-margins.webp" alt="Trulli" style="width:100%">
 </figure>
+
+However mis-timing the refining market completely has been good for [Refining NZ]()'s CEO [Naomi James]()' compensation. 
+Perhaps the doubling of her salary was reward for writing off the refinery our parents paid for to reduce 
+[Channel Infrastructure]() tax liability for years into the future.
+
+
+<figure>
+    <figcaption align = "center"><b>
+        <a href="https://simplywall.st/stocks/nz/energy/nzx-chi/channel-infrastructure-nz-shares#management">
+            Naomi James profits as Refining NZ makes huge loss
+        </a></b></figcaption>
+    <br/>
+    <img src="img/james-comp.png" alt="Trulli" style="width:100%">
+</figure>
+
+> - <span style="color: red;">Compensation vs Market:</span> Naomi's total compensation ($USD1.32M) is above average for companies of similar size in the NZ market ($USD676.28K).
+> - <span style="color: red;">Compensation vs Earnings:</span>C: Naomi's compensation has increased whilst the company is unprofitable.
 
 Because of the refinery's obvious importance a cabinet paper by Megan Woods did float the idea of 
 [a loan to save the refinery]() as has been done in Australia, but this was rejected by cabinet. 
@@ -43,16 +60,22 @@ A motive for this economic sabotage became clear when [James Shaw]() announced h
 exporting our refinery emissions](https://environment.govt.nz/assets/publications/REDACTED-Emissions-Budgets-for-2022-2025_2026-2030-and-2031-2035-cabinet.pdf) 
 (along with the GDP) while probably increasing global emissions.
 
-> The New Zealand Green Politicans show all the wise judgement of an austistic Swedish teenager.
-> -- <cite>River Of Filth Tyranny Response Team</cite>
-
 <figure>
-    <figcaption align = "center"><b><a href="https://en.wikipedia.org/wiki/James_Shaw_(New_Zealand_politician)">James Shaw, on his way to save the climate - credits his two mothers for instilling him a passion for social justice.</a></b></figcaption>
+    <figcaption align = "center"><b>
+        <a href="https://simplywall.st/stocks/nz/energy/nzx-chi/channel-infrastructure-nz-shares#management">
+            Labour Cabinet - Long on Sophomoric Ideology, Short on Intellect and Practical Experience
+        </a></b></figcaption>
     <br/>
-    <img src="img/Shaw_Scottish_copy.jpeg" alt="Trulli">
+    <img src="img/cabinet-from-hell.jpeg" alt="Trulli" style="width:100%">
 </figure>
 
-<br/>
+> The Labour Cabinet show all the wise judgement of an austistic Swedish teenager.
+> -- <cite>River Of Filth Tyranny Response Team</cite>
+
+The very basis of the dramatic push to decarbonize the economy is based on the flakiest science, 
+and in fact represents a huge transfer of wealth towards the rich insiders in the economy and
+certainly away from Western industry and towards in China in particular which has far weaker environmental regulations.
+As is fashionable, we reject the premise of this motive for closing the Refinery which our taxpayers bought and gifted to the Fuel Cartel.  
 
 <figure>
     <figcaption align = "center"><b><a href="https://en.wikipedia.org/wiki/Richard_Lindzen">Professor Lindzen rejects the premise of James Shaw's flights to Glasgow to stop the climate changing</a></b></figcaption>
@@ -68,6 +91,11 @@ is to start selling off this precious asset so this year's balance sheet looks g
 
 > The Fuel Retailing Cartel have asset stripped the refinery they were gifted by the NZ public in a way which 
 > would shame a Yeltsin-era Russian oligarch.
+> -- <cite>River Of Filth Tyrrany Response Team</cite>
+
+> Having the Fuel Retailing Cartel control our refinery is like 
+> putting [The Warehouse](https://simplywall.st/stocks/nz/retail/nzx-whs/warehouse-group-shares) 
+> in charge of our manufacturing policy.
 > -- <cite>River Of Filth Tyrrany Response Team</cite>
 
 You can stop them by joining groups such as the [Dig-In at Marsden Point](https://www.securemarsdenrefinery.nz) to fight back against this insanity. 

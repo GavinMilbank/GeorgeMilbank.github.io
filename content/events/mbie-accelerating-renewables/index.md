@@ -1,5 +1,5 @@
 ---
-title: MBIE Report - Accelerating renewable energy
+title: MBIE Disscussion Document - Accelerating renewable energy
 date: 2019-12-19
 tags:
   - Timeline
