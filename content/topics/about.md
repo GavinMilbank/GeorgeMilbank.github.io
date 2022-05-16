@@ -5,9 +5,11 @@ date: 2022-01-01
 tags:
 ---
 
-We are a team of patriot volunteers determinded to save New Zealand from the ravages of the 
-[communistc Ardern government](https://www.youtube.com/watch?v=g9rsxFaq6Ig). Like minded 
-individuals and organizations are:
+We are patriot volunteers concerned enough about perilous path 
+our contry has taken to try raise awareness to save her from the ravages of the 
+[communistc Ardern government](https://www.youtube.com/watch?v=g9rsxFaq6Ig). 
+
+Like minded individuals and organizations are:
 
 - [Dig-In At Marsden Point](https://www.securemarsdenrefinery.nz/)
 - [Save Our Tankers](http://www.fuelsecurity.nz/)
@@ -16,3 +18,13 @@ individuals and organizations are:
 - [The Late Great Brian Gaynor](https://milfordasset.com/insights/brian-gaynor-overseas-ownership-is-holding-nz-back-2)
 - [The Taxpayers Union](https://www.taxpayers.org.nz) 
 - [The BFD](https://www.thebfd.co.nz)
+
+<br/>
+Kia Kaha
+
+<figure>
+    <img src="/img/river-of-filth.jpeg" alt="Trulli" style="width:100%">
+</figure>
+
+
+
