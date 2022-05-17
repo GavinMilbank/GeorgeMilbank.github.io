@@ -14,17 +14,17 @@ which exposes NZ to [supply, price and quality risks](), exports all the [GDP as
 
 The basic acts in this tragedy are:
 
-1. Fuel Cartel is gifted a $2B hydrocracker by the taxpayer
-2. Fuel Cartel sucks profit out of the refinery over a numbner of years.
-3. Refinery faces competition from Asian refinery over-capacity.
-4. Ardern Government declares war on carbon.
-5. Fuel Cartel arranges to permanently close the refinery during the Covid.
-6. Ardern Government declines to help the refinery to survive Covid.
-7. Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit.) 
-8. Refinery profitability hits historic highs as refinery is shut down.
-9. Refinery CEO doubles her compensation as company makes loss
-10. Ardern Government books the Carbon emmission savings from closing the refinery.
-11. International supply chain continue to fail - geopolitical 
+1. [Fuel Cartel is gifted a $2B hydrocracker by the taxpayer.]()
+2. [Fuel Cartel sucks profit out of the refinery over a number of years]().
+3. [Refinery faces competition from Asian refinery over-capacity]().
+4. [Ardern Government declares war on carbon]().
+5. [Fuel Cartel arranges to permanently close the refinery during the Covid]().
+6. [Ardern Government declines to help the refinery to survive Covid]().
+7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit](). 
+8. [Refinery CEO doubles her compensation as company makes loss]().
+9. [Ardern Government books the carbon emmission savings from closing the refinery]().
+10. [Refinery profitability hits historic highs as refinery is shut down]().
+11. [International supply chains continue to fail]().
 
 <br/>
 <figure>
