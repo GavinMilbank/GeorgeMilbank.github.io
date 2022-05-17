@@ -41,8 +41,6 @@ tags:
 - [Ampol sells Gull NZ](https://docs.google.com/document/d/1ESM80e38NyMeop3F5SmEL8pTlzrN44zl/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 - [Recent Insider Transactions - Z Energy](https://docs.google.com/document/d/1iaiYQ1CSOrzuIqVoPthmNpvWDUd3C-bU/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
-
-
 ## Geopolitics
 
 - [Can NZR Survive](https://www.newsroom.co.nz/can-our-oil-refinery-survive)
