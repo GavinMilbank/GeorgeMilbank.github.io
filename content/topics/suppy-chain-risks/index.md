@@ -28,7 +28,7 @@ https://www.interest.co.nz/public-policy/115592/government-planning-nzs-first-ev
 - [New Zealand prepares for shifts in bitumen supply](https://www.argusmedia.com/en/news/2171627-new-zealand-prepares-for-shifts-in-bitumen-supply)
 
 
-## [ Addressing New Zealand's oil Security in 2040](Dalley-Thesis.pdf)
+## [Addressing New Zealand's oil Security in 2040](Dalley-Thesis.pdf)
 
 > How might changes in the geopolitical environment affect the efficacy of New Zealand’s current oil security assessments and policies out to 2040?
 Through document analysis and utilising a scenario-based approach, this research has found that New Zealand’s current oil security assessments and corresponding policy recommendations do not adequately address geopolitical uncertainty. 

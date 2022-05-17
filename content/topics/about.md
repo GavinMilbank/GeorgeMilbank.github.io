@@ -1,11 +1,11 @@
 ---
-title:      "About Us"
-draft:      false
+title:  "About Us"
+draft:  false
 date: 2022-01-01
 tags:
 ---
 
-We are patriot volunteers concerned enough about perilous path 
+We are patriot volunteers concerned enough about the perilous path 
 our country has taken to try raise awareness to save her from the ravages of the 
 [communistc Ardern government](https://www.youtube.com/watch?v=g9rsxFaq6Ig). 
 
@@ -25,6 +25,3 @@ Kia Kaha
 <figure>
     <img src="/img/river-of-filth.jpeg" alt="Trulli" style="width:100%">
 </figure>
-
-
-

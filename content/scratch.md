@@ -21,8 +21,26 @@ https://www.rnz.co.nz/news/business/448612/marsden-point-potential-closure-gover
 
 https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/
 
+- [Refining NZ Renewables](https://www.mbie.govt.nz/dmsdocument/12087-refining-nz-accelerating-renewable-energy-and-energy-efficiency-submission-pdf)
 
 
 https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/oil-security-in-new-zealand/
 
 [Refinery](https://www.rnz.co.nz/audio/player?audio_id=2018806955)
+
+
+[Closure of Marsden Pt oil refinery confirmed](https://www.rnz.co.nz/national/programmes/checkpoint/audio/2018821552/closure-of-marsden-pt-oil-refinery-confirmed)
+
+[Marsden Pt workers feel abandoned by govt as job cuts loom](https://www.rnz.co.nz/national/programmes/checkpoint/audio/2018806850/marsden-pt-workers-feel-abandoned-by-govt-as-job-cuts-loom)
+
+[Unemployment looms as Marsden Pt oil refinery winds down](https://www.rnz.co.nz/national/programmes/checkpoint/audio/2018805585/unemployment-looms-as-marsden-pt-oil-refinery-winds-down)
+
+
+
+[Climate crunch](https://www.rnz.co.nz/news/national/467047/week-in-politics-get-set-for-the-climate-crunch)
+
+[NZ's first three emissions budgets guaranteed with non-partisan support - minister](https://www.rnz.co.nz/news/political/466970/nz-s-first-three-emissions-budgets-guaranteed-with-non-partisan-support-minister)
+
+- [Refining NZ ](https://channelnz.com/investor-centre/reports-presentations/)
+- [Namoi James April 8 2022](https://www.newsroom.co.nz/pro/pro-talks-naomi-james-offers-marsden-point-oil-tanks-for-national-security-fuel-reserve)
+    - Unlock the value of infrastructure for shareholders.
