@@ -6,7 +6,7 @@ tags:
 ---
 
 We are patriot volunteers concerned enough about perilous path 
-our contry has taken to try raise awareness to save her from the ravages of the 
+our country has taken to try raise awareness to save her from the ravages of the 
 [communistc Ardern government](https://www.youtube.com/watch?v=g9rsxFaq6Ig). 
 
 Like minded individuals and organizations are:
