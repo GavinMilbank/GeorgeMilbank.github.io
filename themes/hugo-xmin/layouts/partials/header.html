@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+  </head>
+
+  <body>
+    <nav style="text-align: center;">
+      <span style="text-align: center; vertical-align: middle;">
+        <h1>
+            <a href="https://en.wikipedia.org/wiki/God_Defend_New_Zealand">
+              <img src="/img/dribbble-nz.gif" style="width:15%; float:left;" alt="Logo"/>
+            </a>
+            Save Marsden Point
+            <a href="https://www.securemarsdenrefinery.nz/">
+              <img src="/img/digin-logo.png" style="width:15%; float:right;" alt="Logo"/>
+            </a>
+        </h1>        
+      </span>
+      <ul class="menu" style="display:inline-block;">
+        {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+      <br/>    
+      <br/>    
+      <br/>    
+    <hr/>
+    </nav>
+
+    
