@@ -84,7 +84,6 @@ As is fashionable, we reject the premise of this motive for closing the Refinery
 
 <br/>
 
-
 The refinery is currently in the state of a regular shutdown and can be brought back on line but the next step for the [Fuel Retailing Cartel]() 
 is to start selling off this precious asset so this year's balance sheet looks good since they have missed out on historc refining profits. 
 
