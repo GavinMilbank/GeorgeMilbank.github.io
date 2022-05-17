@@ -2,6 +2,7 @@
 title: Home
 ---
 <br/>
+
 In this site we present the argument that Marsden Point Refinery's fuel security and economic value to New Zealand
 is such that the government or the refinery owners themselves should reconsider the decision to allow it to be decomissioned. Longer term it is probably a responsible government's role to [secure the operation of the refinery](https://www.securemarsdenrefinery.nz/) as we safely and ethically evolve our energy use profile for the benefit of all New Zealanders.
 
