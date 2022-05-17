@@ -3,7 +3,7 @@ title: Home
 ---
 <br/>
 In this site we present the argument that Marsden Point Refinery's fuel security and economic value to New Zealand
-is such that the government or the refinery owners themselves should reconsider the decision to allow it to be decomissioned. Longer term it is probably a responsible government's role to secure the operation of the refinery as we safely and ethically evolve our energy use profile for the benefit of all New Zealanders.
+is such that the government or the refinery owners themselves should reconsider the decision to allow it to be decomissioned. Longer term it is probably a responsible government's role to [secure the operation of the refinery](https://www.securemarsdenrefinery.nz/) as we safely and ethically evolve our energy use profile for the benefit of all New Zealanders.
 
 
 Marsden Point Refinery is a critical piece of infrastructure which until recently provided most of NZ's 
@@ -20,7 +20,7 @@ The basic acts in this tragedy are:
 4. [Ardern Government declares war on carbon]().
 5. [Fuel Cartel arranges to permanently close the refinery during the Covid]().
 6. [Ardern Government declines to help the refinery to survive Covid]().
-7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit](). 
+7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit)](). 
 8. [Refinery CEO doubles her compensation as company makes loss]().
 9. [Ardern Government books the carbon emmission savings from closing the refinery]().
 10. [Refinery profitability hits historic highs as refinery is shut down]().
@@ -70,7 +70,7 @@ Because of the refinery's obvious importance Megan Woods did float the idea of
 <figure>
     <figcaption align = "center"><b>
         <a href="https://simplywall.st/stocks/nz/energy/nzx-chi/channel-infrastructure-nz-shares#management">
-            Labour's Cabinet from Hell - Long on Sophomoric Ideology, Short on Intellect and Practical Experience
+            Labour's Cabinet from Hell - Long Sophomoric Ideology, Short Intellect and Practical Experience
         </a></b></figcaption>
     <br/>
     <img src="img/cabinet-from-hell.jpeg" alt="Trulli" style="width:100%">
