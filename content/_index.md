@@ -70,7 +70,7 @@ Because of the refinery's obvious importance Megan Woods did float the idea of
 <figure>
     <figcaption align = "center"><b>
         <a href="https://simplywall.st/stocks/nz/energy/nzx-chi/channel-infrastructure-nz-shares#management">
-            Labour Cabinet - Long on Sophomoric Ideology, Short on Intellect and Practical Experience
+            Labour's Cabinet from Hell - Long on Sophomoric Ideology, Short on Intellect and Practical Experience
         </a></b></figcaption>
     <br/>
     <img src="img/cabinet-from-hell.jpeg" alt="Trulli" style="width:100%">
