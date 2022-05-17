@@ -35,11 +35,6 @@ tags:
 
 ## Ampol Z acquistion
 
-- [Ampol - Z Energy Aquisition Clearance Application](https://drive.google.com/file/d/1pisEImbMFXDTFKo7id07ZjwLp8TCoy1J/view?usp=sharing)
-- [Z Investors](https://drive.google.com/file/d/1KgBXD8yGbf6GZIEAoViLrIuK9e637r5f/view?usp=sharing)
-- [Directors Report Z](https://drive.google.com/file/d/1Hh6hojQ6YGGsu41d12eQ1kgq791mCjNA/view?usp=sharing)
-- [Ampol sells Gull NZ](https://docs.google.com/document/d/1ESM80e38NyMeop3F5SmEL8pTlzrN44zl/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
-- [Recent Insider Transactions - Z Energy](https://docs.google.com/document/d/1iaiYQ1CSOrzuIqVoPthmNpvWDUd3C-bU/edit?usp=sharing&ouid=113156018021953239545&rtpof=true&sd=true)
 
 ## Geopolitics
 
@@ -49,7 +44,7 @@ tags:
 - [Oz buyout funds shareholders](https://reneweconomy.com.au/morrisons-ampol-refinery-bail-out-could-go-straight-to-shareholders/)
 - [NZ 'naive' to shut down Marsden Point - Australian analyst](https://www.rnz.co.nz/news/national/448417/nz-naive-to-shut-down-marsden-point-australian-analyst#:~:text=An%20Australian%20analyst%20warns%20New,down%20its%20only%20oil%20refinery.)
 - [RNZ OIA](https://drive.google.com/drive/folders/1xOt1ouJjzBMUTFpUKjCUZLiDk4dx5y9V)
-- [Z energy-exiting-creude-oil-supply](https://www.petrolplaza.com/news/28881)
+- [Z energy-exiting-crude-oil-supply](https://www.petrolplaza.com/news/28881)
 - [Fuel giant Z Energy agrees takeover deal with Australia's Ampol](https://www.nzherald.co.nz/business/fuel-giant-z-energy-agrees-takeover-deal-with-australias-ampol-but-hurdles-remain/FQGWP2MFPPGALWGARF4DKVCVFI/)
 - [NZ 'naive' to shut down Marsden Point - Australian analyst](https://www.rnz.co.nz/news/national/448417/nz-naive-to-shut-down-marsden-point-australian-analyst)
 

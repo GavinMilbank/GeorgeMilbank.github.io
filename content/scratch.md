@@ -41,3 +41,6 @@ https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy
 
 [NZ's first three emissions budgets guaranteed with non-partisan support - minister](https://www.rnz.co.nz/news/political/466970/nz-s-first-three-emissions-budgets-guaranteed-with-non-partisan-support-minister)
 
+- [Refining NZ ](https://channelnz.com/investor-centre/reports-presentations/)
+- [Namoi James April 8 2022](https://www.newsroom.co.nz/pro/pro-talks-naomi-james-offers-marsden-point-oil-tanks-for-national-security-fuel-reserve)
+    - Unlock the value of infrastructure for shareholders.

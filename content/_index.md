@@ -7,10 +7,10 @@ is such that the government or the refinery owners themselves should reconsider 
 
 
 Marsden Point Refinery is a critical piece of infrastructure which until recently provided most of NZ's 
-[transport fuel](), roading [bitumen]() as well as [CO<sub>2</sub>]() for food processing and
-[sulphur]() for fertlizer[^1]. It is slated for destruction by the [Fuel Cartel]() 
-enabled by [Government Green Ideologues](), as the country moves to an [import only model]() which
-exposes NZ to [supply, price and quality risks](), exports all the [GDP associated with the refinery]() and removes [options for our economic and energy development]().
+transport fuel, roading [bitumen]() as well as CO<sub>2</sub> for food processing and
+sulphur for fertlizer[^1]. It is slated for destruction by the controlling sharholders,
+the [Fuel Cartel](), enabled by [Government Green Ideologues](), as the country moves to an import only model
+which exposes NZ to [supply, price and quality risks](), exports all the [GDP associated with the refinery]() and removes [options for our economic and energy development]().
 
 The basic acts in this tragedy are:
 
@@ -22,7 +22,9 @@ The basic acts in this tragedy are:
 6. Ardern Government declines to help the refinery to survive Covid.
 7. Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit.) 
 8. Refinery profitability hits historic highs as refinery is shut down.
-9. Refinery CEO doubles her compensation as company makes loss.
+9. Refinery CEO doubles her compensation as company makes loss
+10. Ardern Government books the Carbon emmission savings from closing the refinery.
+11. International supply chain continue to fail - geopolitical 
 
 <br/>
 <figure>
@@ -47,7 +49,7 @@ sucked profits out of the refinery and into their downstream businesses over man
     <img src="img/refining-margins.webp" alt="Trulli" style="width:100%">
 </figure>
 
-However mis-timing the refining market completely has been good for [Refining NZ]()'s CEO [Naomi James]()' compensation. Perhaps the doubling of her salary was reward for writing off the refinery taxpayers paid for to reduce [Channel Infrastructure]() tax liability for years into the future. So that's tax eveasion by destroying an irreplaceabale national asset.
+However mis-timing the refining market completely has been good for [Refining NZ]()'s CEO [Naomi James]()' compensation. Perhaps the doubling of her salary was reward for writing off the refinery taxpayers paid for to reduce [Channel Infrastructure]() tax liability for years into the future. 
 
 <figure>
     <figcaption align = "center"><b>
