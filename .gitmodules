@@ -1,9 +1,0 @@
-[submodule "themes/hugo-theme-cleanwhite"]
-	path = themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
-[submodule "sites/cupper/themes/cupper-hugo-theme"]
-	path = sites/cupper/themes/cupper-hugo-theme
-	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
-[submodule "themes/hugo-xmin"]
-	path = themes/hugo-xmin
-	url = https://github.com/yihui/hugo-xmin.git
