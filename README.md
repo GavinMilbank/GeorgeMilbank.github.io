@@ -15,3 +15,10 @@
 
 - shareholder are the energy retailers - price fixing carttel - they simply want tthe cheeapest petrol
 - so called "green" energy is not even close to near an alternative
+
+
+- [Hugo Templates](https://gohugo.io/templates/introduction/)
+- [Hugo Template Variables](https://gohugo.io/templates/introduction/#variables)
+- [Hugo Functions](https://gohugo.io/functions/)
+
+
