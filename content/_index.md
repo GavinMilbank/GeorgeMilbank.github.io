@@ -20,7 +20,7 @@ The basic acts in this tragedy are:
 4. [Ardern Government declares war on carbon]().
 5. [Fuel Cartel arranges to permanently close the refinery during the Covid]().
 6. [Ardern Government declines to help the refinery to survive Covid]().
-7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit](). 
+7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit)](). 
 8. [Refinery CEO doubles her compensation as company makes loss]().
 9. [Ardern Government books the carbon emmission savings from closing the refinery]().
 10. [Refinery profitability hits historic highs as refinery is shut down]().
