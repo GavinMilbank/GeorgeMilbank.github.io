@@ -13,20 +13,6 @@ sulphur for fertlizer[^1]. It is slated for destruction by the controlling sharh
 the [Fuel Cartel](), enabled by [Government Green Ideologues](), as the country moves to an import only model
 which exposes NZ to [supply, price and quality risks](), exports all the [GDP associated with the refinery]() and removes [options for our economic and energy development]().
 
-The basic acts in this tragedy are:
-
-1. [Fuel Cartel is gifted a $2B hydrocracker by the taxpayer.]()
-2. [Fuel Cartel sucks profit out of the refinery over a number of years]().
-3. [Refinery faces competition from Asian refinery over-capacity]().
-4. [Ardern Government declares war on carbon]().
-5. [Fuel Cartel arranges to permanently close the refinery during the Covid]().
-6. [Ardern Government declines to help the refinery to survive Covid]().
-7. [Fuel Cartel writes off the refinery for a 500M loas (and probable tax credit)](). 
-8. [Refinery CEO doubles her compensation as company makes loss]().
-9. [Ardern Government books the carbon emmission savings from closing the refinery]().
-10. [Refinery profitability hits historic highs as refinery is shut down]().
-11. [International supply chains continue to fail]().
-
 <br/>
 <figure>
     <img src="img/refinery-from-harbour.jpeg" alt="Trulli" style="width:100%">
@@ -71,7 +57,7 @@ Because of the refinery's obvious importance Megan Woods did float the idea of
 <figure>
     <figcaption align = "center"><b>
         <a href="https://simplywall.st/stocks/nz/energy/nzx-chi/channel-infrastructure-nz-shares#management">
-            Labour's Cabinet from Hell - Long Sophomoric Ideology, Short Intellect and Practical Experience
+            Ardern's Cabinet from Hell - Long Sophomoric Ideology, Short Competence
         </a></b></figcaption>
     <br/>
     <img src="img/cabinet-from-hell.jpeg" alt="Trulli" style="width:100%">
@@ -100,7 +86,7 @@ is to start selling off this precious asset so this year's balance sheet looks g
 > would shame a Yeltsin-era Russian oligarch.
 > -- <cite>River Of Filth Tyrrany Response Team</cite>
 
-You can stop them by joining groups such as the [Dig-In at Marsden Point](https://www.securemarsdenrefinery.nz) to fight back against this insanity. 
+You can stop them by following one of the [many groups fighting back against this insanity](/topics/about). 
 
 <br/>
 
@@ -111,3 +97,4 @@ Nga Mihi <br/>
 
 
 [^1]: And a little which the Refining NZ management hold back for satanic rituals.
+

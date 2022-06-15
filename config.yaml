@@ -13,17 +13,17 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Tags
-      url: "tags/"
-      weight: 4
-    - name: Events
-      url: "events/"
+    - name: Key Events
+      url: "event/"
       weight: 4
     - name: Topics
       url: "topics/"
       weight: 4
-    - name: Press
-      url: "topics/press/"
+    - name: Tags
+      url: "tags/"
+      weight: 4
+    - name: How To Help
+      url: "topics/about/"
       weight: 4
 params:
   description: "Notes on the value and loss of Marsden Point Oil Refinery"
