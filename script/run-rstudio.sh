@@ -1,14 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
-PWD=$(pwd)
-echo PWD=${PWD}
-
+CONTAINER_HOME=/home/rstudio
 docker run -it \
--e DISABLE_AUTH=true \
--p 8787 \
--p 4321 \
--v $(pwd):/home/rstudio \
--v /Users/gavinmilbank/.ssh:/root/.ssh \
--v /Users/gavinmilbank/.ssh:/home/rstudio/.ssh \
-portela-tech-rstudio-dev:latest
-
+    -v "$(pwd):${CONTAINER_HOME}" \
+    -e DISABLE_AUTH=true -p 8787 \
+    rocker/verse:latest
